@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 import os
 
-TOKEN = "7776611328:AAHJ4JiPh3KKpvbvKq92kc3HxN4ANiPB4qA"
+TOKEN = "7991451267:AAFCktyZFjHkawf67DLa8LE5rZY4K9RclkA"
 
 menu_buttons = [
     ("🖌 Logo dizayn", "logo"),
